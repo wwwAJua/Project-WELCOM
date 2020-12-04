@@ -1,4 +1,4 @@
-# v1 <H1> Project-WELCOM </H1> https://welcomesite.netlify.app
+# v1 <H1> Project-WELCOM </H1>
 Практикуюсь вёрстке сайта по макету https://freebiesbug.com/psd-freebies/mogo-free-one-page-psd-template/;
 Спасибо Дмитрию из BrainsCloud за видео урок!;
 Ссылка на видео:https://www.youtube.com/watch?v=ltMSrSis9ww;
